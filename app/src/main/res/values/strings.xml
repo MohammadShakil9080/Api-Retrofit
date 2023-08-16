@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitProject</string>
+    <string name="product_name">Product Name</string>
+    <string name="api_json_and_adapter_tutorial">API , JSON and Adapter Tutorial</string>
+</resources>
